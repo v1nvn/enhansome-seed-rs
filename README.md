@@ -42,7 +42,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Bundlers
 
-* [Trunk](https://github.com/thedodd/trunk) ⭐ 4,138 | 🐛 130 | 🌐 Rust | 📅 2026-02-02 - WASM web application bundler for Rust.
+* [Trunk](https://github.com/thedodd/trunk) ⭐ 4,138 | 🐛 129 | 🌐 Rust | 📅 2026-02-02 - WASM web application bundler for Rust.
 * [Seeder](https://github.com/MartinKavik/seeder) ⭐ 43 | 🐛 5 | 📅 2021-12-18 - Set up Seed app and start dev server by running one command.
 * [Web Bundler](https://github.com/panoptix-za/web-bundler) ⚠️ Archived - Bundles a Seed SPA for publishing.
 
@@ -59,7 +59,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Projects Using Seed
 
-* [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx) ⭐ 16,456 | 🐛 727 | 🌐 Rust | 📅 2026-01-31.
+* [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx) ⭐ 16,464 | 🐛 726 | 🌐 Rust | 📅 2026-02-02.
 * [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2020-08-02 - A basic music composition app.
 * [Kavik.cz](https://github.com/MartinKavik/kavik.cz) ⭐ 5 | 🐛 21 | 🌐 Rust | 📅 2026-01-30 - Open-source personal website.
 * [AdEx Explorer](https://github.com/adexnetwork/adex-explorer) ⭐ 3 | 🐛 7 | 🌐 Rust | 📅 2022-06-06 - Shows curated information about the payment channel network of the AdEx advertising protocol.
