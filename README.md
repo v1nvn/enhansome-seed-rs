@@ -59,7 +59,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Projects Using Seed
 
-* [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx) ⭐ 16,496 | 🐛 719 | 🌐 Rust | 📅 2026-02-06.
+* [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx) ⭐ 16,500 | 🐛 720 | 🌐 Rust | 📅 2026-02-06.
 * [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2020-08-02 - A basic music composition app.
 * [Kavik.cz](https://github.com/MartinKavik/kavik.cz) ⭐ 5 | 🐛 21 | 🌐 Rust | 📅 2026-01-30 - Open-source personal website.
 * [AdEx Explorer](https://github.com/adexnetwork/adex-explorer) ⭐ 3 | 🐛 7 | 🌐 Rust | 📅 2022-06-06 - Shows curated information about the payment channel network of the AdEx advertising protocol.
