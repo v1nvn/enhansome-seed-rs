@@ -26,7 +26,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Official Resources
 
 * ~~Homepage~~
-* [GitHub repo](https://github.com/seed-rs/seed) ⭐ 3,839 | 🐛 55 | 🌐 Rust | 📅 2025-01-11
+* [GitHub repo](https://github.com/seed-rs/seed) ⭐ 3,837 | 🐛 55 | 🌐 Rust | 📅 2025-01-11
 * [Forum](https://seed.discourse.group)
 * [Chat](https://discord.gg/JHHcHp5)
 
@@ -48,7 +48,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Examples
 
-* [Official examples](https://github.com/seed-rs/seed/tree/master/examples) ⭐ 3,839 | 🐛 55 | 🌐 Rust | 📅 2025-01-11 - Smaller examples included in official repo.
+* [Official examples](https://github.com/seed-rs/seed/tree/master/examples) ⭐ 3,837 | 🐛 55 | 🌐 Rust | 📅 2025-01-11 - Smaller examples included in official repo.
 * [RealWorld example](https://github.com/seed-rs/seed-rs-realworld) ⭐ 126 | 🐛 4 | 🌐 Rust | 📅 2025-01-11 - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
 * [ERWA mytodo](https://github.com/seed-rs/erwa_mytodo) ⭐ 10 | 🐛 6 | 🌐 Rust | 📅 2023-06-14 - Rust full-stack example. Diesel, Rocket, Seed.
 * [Dark lang Realworld](https://github.com/MartinKavik/seed-realworld-darklang) ⭐ 9 | 🐛 22 | 🌐 Rust | 📅 2023-01-20 - Seed Realworld example on *Quickstart with Webpack* with integrated [Dark lang](https://darklang.com/) Realworld.
@@ -59,7 +59,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Projects Using Seed
 
-* [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx) ⭐ 16,525 | 🐛 721 | 🌐 Rust | 📅 2026-02-12.
+* [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx) ⭐ 16,527 | 🐛 723 | 🌐 Rust | 📅 2026-02-12.
 * [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2020-08-02 - A basic music composition app.
 * [Kavik.cz](https://github.com/MartinKavik/kavik.cz) ⭐ 5 | 🐛 21 | 🌐 Rust | 📅 2026-02-09 - Open-source personal website.
 * [AdEx Explorer](https://github.com/adexnetwork/adex-explorer) ⭐ 3 | 🐛 7 | 🌐 Rust | 📅 2022-06-06 - Shows curated information about the payment channel network of the AdEx advertising protocol.
