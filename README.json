@@ -268,10 +268,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-07T02:17:57Z",
+            "last_commit": "2026-05-12T03:00:00Z",
             "owner": "launchbadge",
             "repo": "sqlx",
-            "stars": 16978
+            "stars": 16981
           }
         }
       ],
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:55:27.307Z",
+    "last_updated": "2026-05-12T05:35:25.491Z",
     "original_repository": "seed-rs/awesome-seed-rs",
     "source_repository": "v1nvn/enhansome-seed-rs",
     "source_repository_description": null,
