@@ -116,7 +116,7 @@
             "last_commit": "2025-01-11T09:42:45Z",
             "owner": "seed-rs",
             "repo": "seed",
-            "stars": 3833
+            "stars": 3832
           }
         },
         {
@@ -271,7 +271,7 @@
             "last_commit": "2026-05-12T20:00:41Z",
             "owner": "launchbadge",
             "repo": "sqlx",
-            "stars": 16990
+            "stars": 16993
           }
         }
       ],
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:44:49.384Z",
+    "last_updated": "2026-05-14T05:44:19.594Z",
     "original_repository": "seed-rs/awesome-seed-rs",
     "source_repository": "v1nvn/enhansome-seed-rs",
     "source_repository_description": null,
