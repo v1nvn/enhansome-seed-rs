@@ -271,7 +271,7 @@
             "last_commit": "2026-05-12T20:00:41Z",
             "owner": "launchbadge",
             "repo": "sqlx",
-            "stars": 16993
+            "stars": 16999
           }
         }
       ],
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:44:19.594Z",
+    "last_updated": "2026-05-15T05:51:46.179Z",
     "original_repository": "seed-rs/awesome-seed-rs",
     "source_repository": "v1nvn/enhansome-seed-rs",
     "source_repository_description": null,
