@@ -45,7 +45,7 @@
             "last_commit": "2026-03-13T08:51:10Z",
             "owner": "trunk-rs",
             "repo": "trunk",
-            "stars": 4297
+            "stars": 4296
           }
         },
         {
@@ -271,7 +271,7 @@
             "last_commit": "2026-05-26T17:36:38Z",
             "owner": "transact-rs",
             "repo": "sqlx",
-            "stars": 17041
+            "stars": 17058
           }
         }
       ],
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-28T06:07:05.707Z",
+    "last_updated": "2026-05-29T06:09:20.620Z",
     "original_repository": "seed-rs/awesome-seed-rs",
     "source_repository": "v1nvn/enhansome-seed-rs",
     "source_repository_description": null,
