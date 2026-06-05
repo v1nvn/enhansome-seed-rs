@@ -271,7 +271,7 @@
             "last_commit": "2026-06-03T22:07:22Z",
             "owner": "transact-rs",
             "repo": "sqlx",
-            "stars": 17091
+            "stars": 17096
           }
         }
       ],
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-04T06:39:23.467Z",
+    "last_updated": "2026-06-05T06:18:36.815Z",
     "original_repository": "seed-rs/awesome-seed-rs",
     "source_repository": "v1nvn/enhansome-seed-rs",
     "source_repository_description": null,
