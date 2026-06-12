@@ -268,10 +268,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-10T20:36:41Z",
+            "last_commit": "2026-06-11T16:40:58Z",
             "owner": "transact-rs",
             "repo": "sqlx",
-            "stars": 17127
+            "stars": 17134
           }
         }
       ],
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-11T06:45:11.857Z",
+    "last_updated": "2026-06-12T06:37:23.299Z",
     "original_repository": "seed-rs/awesome-seed-rs",
     "source_repository": "v1nvn/enhansome-seed-rs",
     "source_repository_description": null,
